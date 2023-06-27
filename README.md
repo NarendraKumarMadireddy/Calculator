@@ -4,7 +4,7 @@
 
 Intership Project Level 2 - Task-1
 
-Building a CALCULATOR using HTML,CSS and JASVASCIPT .
+Building a CALCULATOR using HTML,CSS and JAVASCRIPT .
 
 Details of the Calculator :
 
